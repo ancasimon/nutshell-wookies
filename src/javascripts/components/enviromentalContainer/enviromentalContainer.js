@@ -80,7 +80,7 @@ const buildReadings = () => {
       let domString = '';
       domString += '<div class="pageDisplay">';
       domString += '<div class="row">';
-      domString += '<h1 class="headingDisplay softEmboss col-8"><p class = "typewriter">Enviromental Readings</p></h1>';
+      domString += '<h1 class="headingDisplay softEmboss col-8"><p class = "typewriter">Environmental Readings</p></h1>';
       const user = firebase.auth().currentUser;
       if (user !== null) {
         domString += '<button type="button" class="col-2 mt-5 btn-default btn-lg crudButtonColor glowing data-target="#modalAddEnviroment" id="button-add-enviroment" value="Add"><i class="fas fa-calendar-plus"></i></button>';
@@ -101,7 +101,6 @@ const buildReadings = () => {
 const enviroEvents = () => {
   $('body').on('click', '.delete-enviroment', removeEnviroData);
   $('body').on('click', '#edit-enviroment-button', editEnviromentEvent);
-  console.error('editEnviromentEvent', editEnviromentEvent);
   $('body').on('click', '#button-add-enviroment', addEnviroModal.showEnviromentModalForm);
   $('body').on('click', '#button-save-enviroment', makeNewEnviro);
   $('body').on('click', '#button-save-edit-enviroment', updateEnviroment);
