@@ -1,9 +1,8 @@
 # Nautilus-Explorer
 
-[Nautilus Explorer](https://nautilus-explorer.firebaseapp.com/)
+[Nautilus Explorer](https://ancanautilus.web.app/)
 
 ## Description
-
 Welcome aboard! This application is a dashboard for the captain and crew of the Nautilus Explorer. This app allows you to keep track of the vessel's crew members and destinations, as well as species and environmental data identified during the journey.
 
 ## Individual Contribution
@@ -32,7 +31,7 @@ Project instructions available in the Github group project tickets here:
 * https://github.com/nss-evening-cohort-11/nutshell-wookies-sithlords/issues/5
 * https://github.com/nss-evening-cohort-11/nutshell-wookies-sithlords/issues/6
 
-# Screenshots
+## Screenshots
 Dashboard
 ![Dashboard](./screenshots-nautilus/dashboard.png)
 
@@ -54,26 +53,24 @@ Editing a Destination
 * Users can log in via Google.
 * The webpage is fully branded. 
 
-
 ## Technologies Used
 Axios API, Bootstrap, CSS, ES6 Modules, ESLint, Firebase, FontAwesome, FreeLogoDesign, Github, Google login authentication, HTML5, Javascript, jQuery, JSON, JSONLint, Lucidchart, moment.js, Moqups, Sass, Webpack
 
 ## Contributors
- [Anca Simon](https://github.com/ancasimon)
+[Zachary Crumpton](https://github.com/ZacCrumpton)
 
- [Michele Rawlins](https://github.com/Michele-Rawlins)
+[John Johnson](https://github.com/John-Ryan-Johnson)
 
- [Zachary Crumpton](https://github.com/ZacCrumpton)
+[Michele Rawlins](https://github.com/Michele-Rawlins)
 
- [John Johnson](https://github.com/John-Ryan-Johnson)
+[Anca Simon](https://github.com/ancasimon)
 
- # How To Run
+## How To Run
 1. Clone down this project.
 1. Create your own `apiKeys.json` file using the template in the `apiKeys.example.json` file with your own Firebase keys.
 1. Make sure you have http-server installed via npm. If not, get it [here](https://www.npmjs.com/package/http-server).
 1. At the root of this project, run the following command: hs -p 9999.
 1. In your browser, navigate to https://localhost:9999.
-
 
 ## Firebase Deployment
 This project has been deployed with Firebase. 
