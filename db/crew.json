@@ -4,49 +4,49 @@
     "lastName": "Crumpton",
     "age": "26",
     "dateAboard": "06/09/2015",
-    "imgUrl": "https://miro.medium.com/fit/c/256/256/1*dC8-bBPmIJjBM8lFX0VqeQ.png",
+    "imgUrl": "https://avatars3.githubusercontent.com/u/26338952?s=460&u=a4c433bf599d6c00e875768cc2c0f21e73d4c126&v=4",
     "title": "Supply Officer",
     "isMale": true,
-    "description": "description goes here yada yada yada"
+    "description": "Provides supplies for the Nautilus crew no matter what the circumstance may be or call for. Officer Crumpton is there to lend a hand."
   },
   "crew2": {
     "firstName": "Greg",
     "lastName": "Korte",
     "age": "37",
     "dateAboard": "05/02/1994",
-    "imgUrl": "https://miro.medium.com/fit/c/256/256/1*dC8-bBPmIJjBM8lFX0VqeQ.png",
+    "imgUrl": "https://avatars2.githubusercontent.com/u/9039265?s=460&u=381869abde135d1eddb947eb87459059686bc353&v=4",
     "title": "Commanding Officer",
     "isMale": true,
-    "description": "description goes here yada yada yada"
+    "description": "The Boss"
   },
   "crew3": {
     "firstName": "Michele",
     "lastName": "Rawlins",
     "age": "21",
     "dateAboard": "12/20/2007",
-    "imgUrl": "https://miro.medium.com/fit/c/256/256/1*dC8-bBPmIJjBM8lFX0VqeQ.png",
+    "imgUrl": "https://avatars0.githubusercontent.com/u/51183779?s=460&u=211566ee2d94da159afa6cc377c2544ef5baf84b&v=4",
     "title": "Lead Engineer",
     "isMale": false,
-    "description": "description goes here yada yada yada"
+    "description": "Officer Rawlins is the Nautilus' leading engineer and handles all the mechanical fixes that are needed."
   },
   "crew4": {
     "firstName": "Anca",
     "lastName": "Simon",
     "age": "21",
     "dateAboard": "09/15/2016",
-    "imgUrl": "https://miro.medium.com/fit/c/256/256/1*dC8-bBPmIJjBM8lFX0VqeQ.png",
+    "imgUrl": "https://avatars3.githubusercontent.com/u/59633395?s=400&u=641b13076629e146468941dc9efa4c2953a2f4fb&v=4",
     "title": "Operations Officer",
     "isMale": false,
-    "description": "description goes here yada yada yada"
+    "description": "Officer Simon handles the operations and coordinates with Cptn Korte on the Nautilus' future destinations."
   },
   "crew5": {
     "firstName": "John",
     "lastName": "Johnson",
     "age": "45",
     "dateAboard": "01/25/2000",
-    "imgUrl": "https://miro.medium.com/fit/c/256/256/1*dC8-bBPmIJjBM8lFX0VqeQ.png",
+    "imgUrl": "https://avatars2.githubusercontent.com/u/51214463?s=460&u=bf38790b2acacad17741a86c07dfe6fab445b429&v=4",
     "title": "Executive Officer",
     "isMale": true,
-    "description": "description goes here yada yada yada"
+    "description": "The Nautilus' second in command, Officer Johnson makes sure that the Nautilus is running strong. He remains ready to take up command in the event that Cptn Korte can no longer do so."
   }
  }
