@@ -49,7 +49,6 @@ const editCrewEvent = (e) => {
 const updateCrew = (e) => {
   e.preventDefault();
   const crewId = $('.edit-crew-form-tag').data('id');
-  console.error('crew id from update function', crewId);
   const editedCrew = {
     firstName: $('#edit-crew-firstName').val(),
     lastName: $('#edit-crew-lastName').val(),
