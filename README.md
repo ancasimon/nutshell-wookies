@@ -33,35 +33,26 @@ Project instructions available in the Github group project tickets here:
 * https://github.com/nss-evening-cohort-11/nutshell-wookies-sithlords/issues/6
 
 # Screenshots
-Dashboard View:
-![Main View](https://github.com/nss-evening-cohort-11/nutshell-wookies/blob/master/screenshots/Nautilus-dashboard2.PNG)
+Dashboard
+![Dashboard](./screenshots-nautilus/dashboard.png)
 
-Crew Members View:
-![Main View](https://github.com/nss-evening-cohort-11/nutshell-wookies/blob/master/screenshots/Nautilus-crew.PNG)
+Destinations
+![Destinations](./screenshots-nautilus/destinations.png)
 
-Crew Members Logged-In:
-![Main View](https://github.com/nss-evening-cohort-11/nutshell-wookies/blob/master/screenshots/Nautilus-crew-logged-in.PNG)
+Destinations for Authenticated User
+![Destinations_User](./screenshots-nautilus/destinations_user.png)
 
-Destinations View:
-![Main View](https://github.com/nss-evening-cohort-11/nutshell-wookies/blob/master/screenshots/Nautilus-destinations.PNG)
+Adding a New Destination
+![Destination_Add](./screenshots-nautilus/destination_add.png)
 
-Destinations Logged-In:
-![Main View](https://github.com/nss-evening-cohort-11/nutshell-wookies/blob/master/screenshots/Nautilus-destinations-logged-in.PNG)
-
-Environment View:
-![Main View](https://github.com/nss-evening-cohort-11/nutshell-wookies/blob/master/screenshots/Nautilus-environment.PNG)
-
-Environment Logged-In:
-![Main View](https://github.com/nss-evening-cohort-11/nutshell-wookies/blob/master/screenshots/Nautilus-environmental-logged-in.PNG)
-
-Species View:
-![Main View](https://github.com/nss-evening-cohort-11/nutshell-wookies/blob/master/screenshots/Nautilus-species.PNG)
-
-Species Logged-In:
-![Main View](https://github.com/nss-evening-cohort-11/nutshell-wookies/blob/master/screenshots/Nautilus-species-logged-in.PNG)
-
+Editing a Destination
+![Destination_Edit](./screenshots-nautilus/destination_edit.png)
 
 ## Features
+* All users can see the Dashboard and data collections the Nautilus Explorer tracks on its journey: Crew, Destinations, Environmental Readings, and Species. 
+* Only authenticated users can manipulate the data - add new items and delete or edit existing items in any of the four collections of data. 
+* Users can log in via Google.
+* The webpage is fully branded. 
 
 
 ## Technologies Used
