@@ -53,7 +53,7 @@ Editing a Destination
 * Users can log in via Google.
 * The webpage is fully branded. 
 
-## Technologies Used
+## Tools &  Technologies
 Axios API, Bootstrap, CSS, ES6 Modules, ESLint, Firebase, FontAwesome, FreeLogoDesign, Github, Google login authentication, HTML5, Javascript, jQuery, JSON, JSONLint, Lucidchart, moment.js, Moqups, Sass, Webpack
 
 ## Contributors
